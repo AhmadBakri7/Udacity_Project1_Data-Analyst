@@ -1,1 +1,1 @@
-Medical Appointment No Shows Dataset
+This project analyzes medical appointment attendance data to identify factors influencing no-show rates. Using Pandas, Matplotlib, and Seaborn, we explore key questions such as the impact of neighborhood, age, gender, SMS reminders, and chronic conditions on appointment attendance. The analysis includes data visualization, statistical insights, and a reusable plotting function to enhance efficiency. The findings provide actionable insights to improve patient attendance rates. 
